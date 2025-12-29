@@ -113,3 +113,4 @@ function btnAnimation(currentKey)
     animation.classList.add("pressed");
     setTimeout(function(){animation.classList.remove("pressed");},100);
 }
+
